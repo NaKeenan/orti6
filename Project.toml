@@ -1,0 +1,9 @@
+[deps]
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+Graphs = "86223c79-3864-5bf0-83f7-82e725a168b6"
+ITensorNetworks = "2919e153-833c-4bdc-8836-1ea460a35fc7"
+NamedGraphs = "678767b0-92e7-4007-89e4-4527a8725b19"
+PauliStrings = "f07625cc-80e4-4099-a362-36a3484d9bcc"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+SimpleGraphAlgorithms = "41400c72-0c58-5c16-8579-4ecbce768449"
+TimerOutputs = "a759f4b9-e2f1-59dc-863e-4aeb61b1ea8f"
